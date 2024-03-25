@@ -1,2 +1,2 @@
-# ken-homelab.github.io
+# ken-homelab
 Homelab Docs
